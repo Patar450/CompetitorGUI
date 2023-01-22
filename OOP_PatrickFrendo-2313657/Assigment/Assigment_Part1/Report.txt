@@ -1,0 +1,80 @@
+Competitors List
+Competitor Number 100, name Keith Talbot.
+Keith is a/an Beginner aged 21 and received these scores: 3,2,4,5,0.
+This gives him an overall score of 1.06.
+
+Competitor Number 101, name Jane Macdonald.
+Jane is a/an Novice aged 18 and received these scores: 3,4,0,5,0.
+This gives him an overall score of 2.15.
+
+Competitor Number 102, name John Smith.
+John is a/an Veteran aged 28 and received these scores: 2,4,0,1,2.
+This gives him an overall score of 2.64.
+
+Competitor Number 103, name Sarah Johnson.
+Sarah is a/an Veteran aged 19 and received these scores: 2,1,1,5,4.
+This gives him an overall score of 4.8.
+
+Competitor Number 104, name Michael Brown.
+Michael is a/an Expert aged 31 and received these scores: 2,2,3,0,0.
+This gives him an overall score of 2.2.
+
+Competitor Number 105, name Emily Davis.
+Emily is a/an Expert aged 16 and received these scores: 1,2,0,0,0.
+This gives him an overall score of 0.8.
+
+Competitor Number 106, name Matthew Miller.
+Matthew is a/an Novice aged 18 and received these scores: 0,3,5,4,4.
+This gives him an overall score of 3.65.
+
+Competitor Number 107, name Olivia Wilson.
+Olivia is a/an Novice aged 22 and received these scores: 5,1,4,5,0.
+This gives him an overall score of 2.7.
+
+Competitor Number 108, name Jacob Moore.
+Jacob is a/an Veteran aged 40 and received these scores: 4,0,5,3,1.
+This gives him an overall score of 3.92.
+
+Competitor Number 109, name Isabella Taylor.
+Isabella is a/an Veteran aged 29 and received these scores: 1,1,4,5,2.
+This gives him an overall score of 4.64.
+
+Competitor Number 110, name Ethan Anderson.
+Ethan is a/an Beginner aged 17 and received these scores: 0,4,3,5,3.
+This gives him an overall score of 1.34.
+
+Competitor Number 111, name Sophia Jackson.
+Sophia is a/an Expert aged 20 and received these scores: 0,5,4,5,3.
+This gives him an overall score of 7.4.
+
+Competitor Number 112, name Peter Jankins.
+Peter is a/an Expert aged 17 and received these scores: 2,5,3,1,4.
+This gives him an overall score of 6.0.
+
+Competitor Number 113, name Test Zero.
+Test is a/an Beginner aged 17 and received these scores: 5,5,5,5,5.
+This gives him an overall score of 2.0.
+
+
+The competitor with the highest overall score is:
+Competitor Number 111, name Sophia Jackson.
+Sophia is a/an Expert aged 20 and received these scores: 0,5,4,5,3.
+This gives him an overall score of 7.4.
+
+
+Statistics:
+There are 14 number of competitors.
+Average overall score: 3.24
+Maximum overall score: 7.4
+Minimum overall score: 0.8
+
+Frequency of individual scores: 
+Amount of competitors scored a 0 is: 14,
+Amount of competitors scored a 1 is: 9,
+Amount of competitors scored a 2 is: 9,
+Amount of competitors scored a 3 is: 9,
+Amount of competitors scored a 4 is: 12,
+Amount of competitors scored a 5 is: 17
+
+Short details for the searched 100:
+CN 100 (KT) has overall score 1.06.

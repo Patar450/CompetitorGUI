@@ -1,0 +1,16 @@
+Helen Scott
+James Jackson
+Tim Moore
+Tom Smith
+Jo Black
+Mary Brown
+
+Number of students in total: 6
+Student at index 2: Tim Moore
+Student with ID 1356: Tom Smith
+Number of students in year 2: 2 students in total.
+Years frequency report: 
+1: 2
+2: 2
+3: 2
+

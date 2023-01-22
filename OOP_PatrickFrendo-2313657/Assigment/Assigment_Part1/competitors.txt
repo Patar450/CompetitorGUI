@@ -1,0 +1,14 @@
+100, Keith, Talbot, Beginner,21,3,2,4,5,0
+101, Jane, Macdonald, Novice,18, 3,4,0,5,0
+102, John, Smith, Veteran,28, 2,4,0,1,2
+103, Sarah, Johnson, Veteran,19, 2,1,1,5,4
+104, Michael, Brown, Expert,31, 2,2,3,0,0
+105, Emily, Davis, Expert,16, 1,2,0,0,0
+106, Matthew, Miller, Novice,18, 0,3,5,4,4
+107, Olivia, Wilson, Novice,22, 5,1,4,5,0
+108, Jacob, Moore, Veteran,40, 4,0,5,3,1
+109, Isabella, Taylor, Veteran,29, 1,1,4,5,2
+110, Ethan, Anderson, Beginner,17, 0,4,3,5,3
+111, Sophia, Jackson, Expert,20, 0,5,4,5,3
+112, Peter, Jankins, Expert,17, 2,5,3,1,4
+113, Test, Zero, Beginner,17, 5,5,5,5,5

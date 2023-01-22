@@ -1,0 +1,27 @@
+Which container would you choose in the following situations? Give reasons.
+1. To keep a record of the English names of types of birds that I saw in my 
+garden within a 10 minute period, in order of occurrence. I will just add a bird 
+name whenever I see the bird.
+E.g. bluetit, bluetit, robin, blackbird, robin, bluetit
+
+LinkedList, as it'll allow the user to keep record of the birds in order of occurance
+without changing the structure of the list regardless of duplicates.
+
+2. To keep a record of the English names of each type of bird that I have ever 
+seen in my garden. I just want names, in alphabetic order. I want to add a bird 
+whenever I see one. As the list grows, I might not remember whether a bird is 
+a new bird or one that I have already seen.
+E.g. blackbird, bluetit, robin, thrush
+
+TreeSet, more precisely SortedSet to automatically arrange the items in ascending order.
+One problem that might cause is that it will not allow user to store duplicate items.
+
+3. As (2) above, but once I add the bird, I want to keep other details about that 
+type of bird (e.g. latin name, average lifespan) and I want to be able to look 
+them up by name. I don’t need them in any particular order. 
+
+HashMap, and use the bird name as the key and the rest of the details into objects. 
+
+4. As (3) above. What if I did want to print details in some order?
+TreeMap, and use the bird name as the key again but using TreeMap will also allow the user
+to print details in any given order.

@@ -1,0 +1,10 @@
+Dancing,1,John,Doe,Beginner,17,3,1,4,2,3,0
+Dancing,2,Jane,Smith,Novice,19,5,1,2,0,5,3
+Dancing,3,Michael,Johnson,Veteran,22,4,5,0,1,3,4
+Dancing,4,Emily,Williams,Expert,25,5,2,3,5,4,1
+Dancing,5,Joshua,Brown,Beginner,18,2,2,3,0,5,4
+Dancing,6,Ashley,Jones,Novice,20,4,0,2,4,3,1
+Dancing,7,David,Miller,Veteran,28,5,2,5,0,1,3
+Dancing,8,Samantha,Davis,Expert,30,5,3,5,2,0,1
+Dancing,9,Christopher,Garcia,Beginner,15,1,2,5,3,1,0
+Dancing,10,Danielle,Rodriguez,Novice,21,3,3,4,5,2,1

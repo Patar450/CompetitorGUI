@@ -1,0 +1,37 @@
+Table of Competitors:
+CN 1 (JD) has overall score 3.74.
+CN 2 (JS) has overall score 7.55.
+CN 3 (MJ) has overall score 8.24.
+CN 4 (EW) has overall score 10.9.
+CN 5 (JB) has overall score 3.24.
+CN 6 (AJ) has overall score 6.15.
+CN 7 (DM) has overall score 8.36.
+CN 8 (SD) has overall score 8.5.
+CN 9 (CG) has overall score 1.72.
+CN 10 (DR) has overall score 5.7.
+CN 21 (HH) has overall score 3.7.
+CN 22 (MM) has overall score 7.15.
+CN 23 (AM) has overall score 7.2.
+CN 24 (JL) has overall score 11.6.
+CN 25 (EP) has overall score 2.52.
+CN 26 (EW) has overall score 6.5.
+CN 27 (MJ) has overall score 7.48.
+CN 28 (AJ) has overall score 10.3.
+CN 29 (RR) has overall score 1.96.
+CN 30 (SB) has overall score 5.2.
+CN 11 (CE) has overall score 4.42.
+CN 12 (SJ) has overall score 7.5.
+CN 13 (BP) has overall score 8.0.
+CN 14 (ES) has overall score 7.7.
+CN 15 (HJ) has overall score 2.68.
+CN 16 (DC) has overall score 6.1.
+CN 17 (GG) has overall score 5.96.
+CN 18 (TH) has overall score 10.8.
+CN 19 (TC) has overall score 2.5.
+CN 20 (MR) has overall score 5.0.
+
+Competitor with the highest overall score: 
+Competitor Number 24, name Joshua Lee.
+Joshua is a/an Expert aged 25 and received these scores: 3,4,5,2,3.
+This gives him an overall score of 11.6.
+

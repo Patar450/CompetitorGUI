@@ -1,0 +1,10 @@
+Swimming,21,Harper,Hernandez,Beginner,17,3,0,3,5,0,1
+Swimming,22,Matthew,Moore,Novice,19,5,0,1,2,4,2
+Swimming,23,Abigail,Martin,Veteran,22,4,3,1,2,1,3
+Swimming,24,Joshua,Lee,Expert,25,5,3,4,5,2,3
+Swimming,25,Emily,Perez,Beginner,18,2,2,4,1,0,1
+Swimming,26,Emma,Watson,Novice,20,4,5,2,4,0,3
+Swimming,27,Michael,Jordan,Veteran,28,5,4,0,0,1,3
+Swimming,28,Angelina,Jolie,Expert,30,5,3,1,0,4,4
+Swimming,29,Ryan,Reynolds,Beginner,15,1,3,0,2,2,4
+Swimming,30,Sandra,Bullock,Novice,21,3,1,4,5,2,0
